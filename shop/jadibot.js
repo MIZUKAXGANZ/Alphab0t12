@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0858035935091
+│ ⤷ _Minat? Hubungi wa.me/6285803593509
 │
 ╰──「 *Thank's* 」
 `

@@ -32,7 +32,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♊ Instagram : instagram.com/bocilderik
 ♋ Tiktok : tiktok.com/@bocilderik1
 ♌ Telegram : t.me/S5TNK
-♎ bot 2: wa.me/62858035935091
+Yg gk sewa haram lu asu
 ♏ WhatsApp : owner gw gagah
 `}
 

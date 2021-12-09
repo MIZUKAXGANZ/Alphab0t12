@@ -27,13 +27,13 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+♈ YouTube : youtube.com/c/BOCILDERIK
+♉ Github : MIZUKAXGANZ.github.io
+♊ Instagram : instagram.com/bocilderik
+♋ Tiktok : tiktok.com/@bocilderik1
+♌ Telegram : t.me/S5TNK
+♎ bot 2: wa.me/62858035935091
+♏ WhatsApp : owner gw gagah
 `}
 
 exports.infobot = infobot
